@@ -15,7 +15,7 @@ put http://localhost:8080/api/todo/6
 Content-Type: application/json
 
 {
-    "name": "test edit to do edididididi",
+    "name": "test edit to do ",
     "status": true
 }
 
